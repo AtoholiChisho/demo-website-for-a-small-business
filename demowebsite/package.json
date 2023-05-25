@@ -1,0 +1,16 @@
+{
+  "name": "port2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/app.js -e js,hbs"
+  },
+  "keywords": [],
+  "author": "Atoholichisho",
+  "license": "ISC",
+  "dependencies": {
+    "mongose": "^0.0.2-security"
+  }
+}
